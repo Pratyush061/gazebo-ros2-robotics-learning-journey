@@ -1,0 +1,17 @@
+I am installing a ros2 by using UBUNTU commands 
+I am using Ubuntu 24.04 noble with ROS2 LTS Jazzy.
+
+I am using a dual booting for the ubuntu Using the gparted so i have my windows laptop dual-booted.
+
+Let's get started.
+
+I get to the google and search install ros2 <distro> well I am using jazzy. 
+
+So i come across the link https://docs.ros.org/en/jazzy/installation.html 
+then i go to Ubuntu linux deb packages which is the recommended way.
+
+So i get the guide there how to install so i step by step done it.
+
+One thing additionally i have done is I have done $nano ~/bash.rc and then in the bottom of the text editor I put the source /opt/ros/jazzy/setup.bash save it.
+So we have configured the ros2 in the environment.
+
